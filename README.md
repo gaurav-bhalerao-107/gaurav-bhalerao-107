@@ -15,14 +15,18 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGa2HFQCv4/gMMANWnYD7NzjUpXlBVgdA/edit?utm_content=DAGa2HFQCv4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGa2HFQCv4/gMMANWnYD7NzjUpXlBVgdA/edit?utm_content=DAGa2HFQCv4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+
+
+[![An image of @ace's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ace)](https://holopin.io/@ace)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gauravbhalerao7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravbhalerao7" height="30" width="40" /></a>
 <a href="https://instagram.com/gaurav.bhalerao__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav.bhalerao__" height="30" width="40" /></a>
 </p>
 
-
-[![An image of @ace's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ace)](https://holopin.io/@ace)
 
 
 <h3 align="left">Languages and Tools:</h3>
